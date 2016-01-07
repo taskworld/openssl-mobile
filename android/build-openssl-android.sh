@@ -30,7 +30,7 @@ tar -zxf "$OPENSSL_PATH" -C $BASE_DIR
 rm -rf $DIST_DIR
 mkdir $DIST_DIR
 
-archs=(armeabi) # armeabi-v7a arm64-v8a mips mips64 x86 x86_64)
+archs=(armeabi armeabi-v7a arm64-v8a mips mips64 x86 x86_64)
 
 for arch in ${archs[@]}; do
     xLIB="/lib"
