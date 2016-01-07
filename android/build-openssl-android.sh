@@ -4,7 +4,7 @@
 #
 set -e
 
-VERSION="1.0.2d"
+VERSION=1.0.2e
 BASE_DIR=`pwd`
 BUILD_DIR="$BASE_DIR/build"
 DIST_DIR="$BASE_DIR/dist"
