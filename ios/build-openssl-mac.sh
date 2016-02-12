@@ -13,7 +13,7 @@
 ## Parameters
 ## --------------------
 
-VERSION=1.0.2e
+VERSION=1.0.2f
 OSX_SDK=10.11
 MIN_OSX=10.6
 IOS_SDK=9.2
